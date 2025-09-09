@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+utcp
+utcp-http
